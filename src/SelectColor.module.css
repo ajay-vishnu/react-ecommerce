@@ -1,0 +1,13 @@
+.SelectColor    {
+    display: inline;
+}
+
+.cardImage {
+    width: 10%;
+}
+
+.currentCard   {
+    width: 10%;
+    border-radius: 20%;
+    border: 2px solid #0F6D79;
+}

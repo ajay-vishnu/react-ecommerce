@@ -1,0 +1,13 @@
+.Features {
+    background-color: #DCDCDC;
+    color: #000;
+    border-radius: 10px;
+    font-weight: 600;
+    margin-right: 3%;
+    padding: 2% 7% 2% 7%;
+}
+
+.currentFeature {
+    background-color: #808080;
+    color: #fff;
+}
